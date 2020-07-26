@@ -1,3 +1,4 @@
+Inspirado en este tutorial de Sergio Palay https://www.youtube.com/watch?v=z-WdK6Yy11w
 
 > Open this page at [https://josemoyacr.github.io/asteroid_microbit/](https://josemoyacr.github.io/asteroid_microbit/)
 
